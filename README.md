@@ -1,6 +1,6 @@
 # Pig Game
 
-This simple game works only on large screen devices.
+This **two-player** game works only on large screen devices.
 
 # Game Rules
 -------------------------------------------------------------------------------- 
