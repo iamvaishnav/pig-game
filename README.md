@@ -1,6 +1,6 @@
 # Pig Game
 
-This **two-player** game works only on large screen devices.
+This is an arcade game which can be played against the computer.
 
 # Game Rules
 -------------------------------------------------------------------------------- 
