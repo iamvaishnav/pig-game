@@ -1,3 +1,0 @@
- document.querySelector('.player-panel-0').classList.remove('winner');
-    document.querySelector('.player-panel-1').classList.remove('winner');
-    document.querySelector('.player-panel-0').classList.('winner');

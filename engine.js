@@ -48,7 +48,7 @@ function nextPlayer() {
 document.getElementsByClassName('btn-roll')[0].addEventListener('click', function() {
     if (gamePlaying) {
         var dice = Math.floor(Math.random() * 6) + 1;
-        document.getElementsByClassName('dice')[0].src = 'dice-' + dice + '.png';
+        document.getElementsByClassName('dice')[0].src = 'img/dice-' + dice + '.png';
         document.getElementsByClassName('dice')[0].style.display = 'block';
         if (dice !== 1) {
             roundScore += dice;
